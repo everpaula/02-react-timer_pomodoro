@@ -1,4 +1,4 @@
-<h2>Front End&nbsp;Front End Project Pomodoro Timer - React + Vite + Typescript</h2>o
+<h2>Front-End Project Pomodoro Timer - React + Vite + Typescript</h2>o
 
 
 
